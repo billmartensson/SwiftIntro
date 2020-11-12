@@ -13,6 +13,7 @@
 		AB867EB1255D6CB700966A25 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB867EB0255D6CB700966A25 /* Assets.xcassets */; };
 		AB867EB4255D6CB700966A25 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AB867EB3255D6CB700966A25 /* Preview Assets.xcassets */; };
 		AB867EB7255D6CB700966A25 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AB867EB5255D6CB700966A25 /* LaunchScreen.storyboard */; };
+		AB867EC0255DCDAE00966A25 /* OtherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB867EBF255DCDAE00966A25 /* OtherView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AB867EB3255D6CB700966A25 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AB867EB6255D6CB700966A25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AB867EB8255D6CB700966A25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AB867EBF255DCDAE00966A25 /* OtherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OtherView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AB867EAA255D6CB600966A25 /* AppDelegate.swift */,
 				AB867EAC255D6CB600966A25 /* SceneDelegate.swift */,
 				AB867EAE255D6CB600966A25 /* ContentView.swift */,
+				AB867EBF255DCDAE00966A25 /* OtherView.swift */,
 				AB867EB0255D6CB700966A25 /* Assets.xcassets */,
 				AB867EB5255D6CB700966A25 /* LaunchScreen.storyboard */,
 				AB867EB8255D6CB700966A25 /* Info.plist */,
@@ -148,6 +151,7 @@
 				AB867EAB255D6CB600966A25 /* AppDelegate.swift in Sources */,
 				AB867EAD255D6CB600966A25 /* SceneDelegate.swift in Sources */,
 				AB867EAF255D6CB600966A25 /* ContentView.swift in Sources */,
+				AB867EC0255DCDAE00966A25 /* OtherView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

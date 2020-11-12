@@ -8,6 +8,10 @@
 import SwiftUI
 
 struct ContentView: View {
+    
+    // Från del 2
+    @State var antalklick = 0
+    
     var body: some View {
         VStack {
             /*
@@ -40,6 +44,8 @@ struct ContentView: View {
             .background(Color.red)
             
             Text("Hej")
+            // Från del 2
+            //Text("Klick: \(antalklick)")
             
         }
         .frame(minWidth: 0, maxWidth: .infinity, minHeight: 0, maxHeight: .infinity, alignment: .top)
